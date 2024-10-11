@@ -1,0 +1,8 @@
+{
+    "name": "Thomaz Feitosa De Mello",
+    "username": "ThOMaZMe11o",
+    "email": "thomazmello1912@gmail.com",
+    "password": "12345",
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGtY5XzxZFucg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726064584973?e=1733961600&v=beta&t=i-ybCwLgio8Sqlzg4Lo7SeFiQ-vBk5XNhgTFM03ed8M",
+    "background": "https://imgur.com/NIrT7fU"
+}
